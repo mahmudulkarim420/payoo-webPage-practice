@@ -269,5 +269,5 @@ document.getElementById("transaction-button").addEventListener("click", function
 
 // Go To Login Form
     document.getElementById("logout-btn").addEventListener("click", function() {
-    window.location.href = "./index.html.html"; 
+    window.location.href = "./index.html"; 
   });
